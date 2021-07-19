@@ -17,11 +17,13 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Anything else for my desc? 😆
 - ⚡ Fun fact: Music 🎵 for life....
 
-[![Satvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikakoti&theme=dark)](https://github.com/satvikakoti/github-readme-stats)
+[![Satvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectTC&theme=dark)](https://github.com/projectTC/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=satvikakoti&style=flat&color=red)  
+![](https://komarev.com/ghpvc/?username=projectTC&style=flat&color=red)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikakoti&theme=dark)](https://github.com/satvikakoti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projectTC&theme=dark)](https://github.com/projectTC/github-readme-stats)
 
 ![](https://media.tenor.com/images/7f7323bed7a9e4b31050a8f05f771185/tenor.gif)
 
+
+Checkout my other github repo by clicking on the GitHub icon above 👆👆...
